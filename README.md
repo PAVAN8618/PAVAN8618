@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PAVAN8618
 - 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning React js
+- 🌱 I’m currently learning React js, Nodejs, Express js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
