@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PAVAN8618
 - 👀 I’m interested in Front End development
-- 🌱 I’m currently learning React js, Nodejs, Express js
+- 🌱 I’m currently learning React Js, Redux Js, Next Js, Tailwind CSS, HTML, CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
